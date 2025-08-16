@@ -14,3 +14,8 @@ Features
 output:
 <img width="1197" height="730" alt="image" src="https://github.com/user-attachments/assets/13111b6b-ad1f-4f02-bc61-65241678439b" />
 
+<img width="1193" height="734" alt="image" src="https://github.com/user-attachments/assets/47887033-6948-482e-af6c-0402478d25c0" />
+
+then it will open spotify and play selected song
+
+
